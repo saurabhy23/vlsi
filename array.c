@@ -22,3 +22,5 @@ int main(){
 			printf("arrays have same elements\n");
 		}
 }
+rdtfgyvfgyhbj
+tyrgdfvhb
